@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sikander-hay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Noman Saeed
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning BS IT
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me WP
 
 <!---
 sikander-hay/sikander-hay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
